@@ -3,7 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: This is a product page
-    subtitle: Optional hero section subtitle
+    subtitle: A product sub title
     content: >-
       Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl
       ligula, cursus id molestie vel.
