@@ -7,7 +7,7 @@ sections:
     content: |
       A product **description**
     actions:
-      - label: Try Free
+      - label: Button Label
         url: /pricing
         style: primary
       - label: Learn More
